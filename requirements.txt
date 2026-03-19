@@ -1,0 +1,4 @@
+%pip install ultralytics pyyaml
+%pip install -q pytesseract
+!apt-get install -y tesseract-ocr
+%pip install -q cvzone
